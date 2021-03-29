@@ -1,3 +1,3 @@
 # Bluetooth
-Bluetooth Android
-![image](https://github.com/a-voyager/BluetoothHelper/raw/master/imgs/ble_icon.png)
+
+![image](https://github.com/rpaura/Bluetooth/raw/main/ble_icon.png)
